@@ -7,7 +7,7 @@ Let's build something amazing together! 🚀
 ---
 ## 🛠 My Skills:
 ### Languages:
-- ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)   ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)   
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)   ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)   
 ---
 ### 🌐 Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/hornet468)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/u/tomhelington/s/vL3VIVlGYQ)  
