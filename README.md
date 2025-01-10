@@ -6,10 +6,6 @@ Let's build something amazing together! 🚀
 
 ---
 
-## 📈 My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hornet468&show_icons=true&theme=radical)   
-
----
 
 ## 🛠 My Skills:
 ### Languages & Tools:
@@ -28,6 +24,12 @@ Let's build something amazing together! 🚀
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/hornet468)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/u/tomhelington/s/vL3VIVlGYQ)
 
 ---
+
+## 📈 My GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hornet468&show_icons=true&theme=radical)   
+
+---
+
 ### 🔍 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hornet468&layout=compact&theme=radical)
 
