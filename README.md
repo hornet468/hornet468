@@ -25,13 +25,7 @@ Let's build something amazing together! 🚀
 ---
 
 ## 📈 My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hornet468&show_icons=true&theme=radical)
-
-### 🔍 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hornet468&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hornet468&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hornet468&layout=compact&theme=radical)
 
 ---
-
-
-
 > _"Code is like humor. When you have to explain it, it’s bad."_ - Cory House
