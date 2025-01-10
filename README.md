@@ -16,18 +16,11 @@ Let's build something amazing together! 🚀
 - ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 - ![OpenSSL](https://img.shields.io/badge/OpenSSL-%234A8CF7.svg?logo=openssl&logoColor=white)
 
-### Frontend:
-- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
-- ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white)
-
-### Backend:
-- ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white)
-
 ---
 
 ### 🌐 Connect with me:
-- ![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white) [Telegram](https://t.me/yourusername)
-- ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white) [Reddit](https://reddit.com/u/yourusername)
+- ![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white) [Telegram](https://t.me/hornet468)
+- ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white) [Reddit](https://www.reddit.com/u/tomhelington/s/vL3VIVlGYQ)
 
 ---
 
@@ -35,7 +28,7 @@ Let's build something amazing together! 🚀
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🔍 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hornet468&layout=compact&theme=radical)
 
 ---
 
