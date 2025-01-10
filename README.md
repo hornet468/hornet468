@@ -5,16 +5,25 @@ I have successfully built a blockchain from scratch and previously worked as a f
 Let's build something amazing together! 🚀
 
 ---
+
 ## 🛠 My Skills:
-### Languages:
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)   ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)   
+### Languages & Tools:
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)  
+![OpenSSL](https://img.shields.io/badge/OpenSSL-%234A8CF7.svg?logo=openssl&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white)
+
 ---
+
 ### 🌐 Connect with me:
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/hornet468)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/u/tomhelington/s/vL3VIVlGYQ)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/hornet468)  
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/u/tomhelington/s/vL3VIVlGYQ)
 
 ---
 
-### 📈 My GitHub Stats:
+## 📈 My GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hornet468&show_icons=true&theme=radical)
 
 ### 🔍 Most Used Languages:
@@ -26,7 +35,7 @@ Let's build something amazing together! 🚀
 - 🔭 I’m currently working on: Blockchain projects  
 - 🌱 I’m currently learning: Advanced blockchain and OpenSSL techniques  
 - 💬 Ask me about: C++ development, blockchain, and frontend frameworks  
-- ⚡️ Fun fact: *Even simple ideas can change the world!*  
+- ⚡️ Fun fact: _Even simple ideas can change the world!_
 
 ---
 
