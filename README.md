@@ -9,7 +9,7 @@ Let's build something amazing together! 🚀
 
 ## 🛠 My Skills:
 ### Languages & Tools:
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)  ![OpenSSL](https://img.shields.io/badge/OpenSSL-%234A8CF7.svg?logo=openssl&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)  
 ---
 
 ## ✨ About Me:
