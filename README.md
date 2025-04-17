@@ -21,7 +21,7 @@ Let's build something amazing together! 🚀
 ---
 
 ### 🌐 Connect with me:  
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/hornet468)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/u/tomhelington/s/vL3VIVlGYQ)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/skywastenova)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/u/tomhelington/s/vL3VIVlGYQ)  
 
 ---
 
